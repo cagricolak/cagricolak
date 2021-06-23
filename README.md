@@ -3,7 +3,7 @@
 🖐!
 
 - 🌱 I’m currently working on : another ios project
-- 💬 Ask me about: iOS development and some python automation for generating pre-defined codes and architectures
+- 💬 Ask me about: iOS Cookies
 - 🤙 How to reach me: work.colak@gmail.com
 
 
