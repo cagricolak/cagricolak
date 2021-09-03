@@ -18,3 +18,9 @@
 <a href="https://apps.apple.com/tr/app/hr-venue-v2/id1449021136?l=tr"><img src="/clients/kariyer-hrvenue_hd.jpg" width="70"></a>
 <a href="https://apps.apple.com/tr/app/migros-sanal-market/id397585390?l=tr"><img src="/clients/sanal market logo.jpg" width="55"></a>
 <a href="https://github.com/cagricolak/cagricolak/blob/main/clients/istac/duran%20varlik.jpg"><img src="/clients/istac/Istac_vektorel_korumali.png" width="70"></a>
+
+<a href="https://www.avis.com.tr"><img src="/clients/avis.png" width="50"></a>
+<a href="https://www.budget.com.tr"><img src="/clients/budget.png" width="50"></a>
+<a href="https://www.bayer.com.tr/tr/"><img src="/clients/bayer.png" width="50"></a>
+<a href="https://fenerium.com/"><img src="/clients/fenerbahce.png" width="50"></a>
+<a><img src="/clients/divan.png" width="50"></a>
