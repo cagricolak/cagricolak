@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working on : another ios project
 - 💬 Ask me about: iOS Cookies
-- 🤙 How to reach me: work.colak@gmail.com
+- 🤙 How to reach me: cagri@klavy.app
 
 
 #### Projects I've worked before
