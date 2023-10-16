@@ -7,8 +7,8 @@
 
 
 #### Projects I've worked before
-<a href="https://apps.apple.com/tr/app/carrefoursa-online-market/id1460593315?l=tr"><img src="/clients/carrefoursa.png" width="70"></a>
-<a href="https://apps.apple.com/tr/app/n-kolay/id1449491530?l=tr"><img src="/clients/nkolay.png" width="70"></a>
+<a href="https://apps.apple.com/tr/app/carrefoursa-online-market/id1460593315?l=tr"><img src="/clients/carrefoursa.png" width="50"></a>
+<a href="https://apps.apple.com/tr/app/n-kolay/id1449491530?l=tr"><img src="/clients/nkolay.png" width="50"></a>
 
 <a href="https://apps.apple.com/tr/app/dijital-operatör/id335162906?l=tr"><img src="/clients/turkcell/dijital-operator-logo.png" width="70"></a>
 <a href="https://apps.apple.com/tr/app/turkcell-platinum/id671494224?l=tr"><img src="/clients/turkcell/platinum.jpg" width="50"></a>
