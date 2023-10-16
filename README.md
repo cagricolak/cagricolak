@@ -3,14 +3,16 @@
 🖐!
 
 - 🌱 I’m currently working on : another ios project
-- 🤙 How to reach me: cagri.colak@icloud.com
+- 🤙 How to reach me: ios.colak@gmail.com
 
 
-#### Last two projects
+### Last two projects
+
 <a href="https://apps.apple.com/tr/app/carrefoursa-online-market/id1460593315?l=tr"><img src="/clients/carrefoursa.png" width="50"></a>
 <a href="https://apps.apple.com/tr/app/n-kolay/id1449491530?l=tr"><img src="/clients/nkolay.png" width="50"></a>
-<hr>
-#### Projects I've worked before
+***
+### Projects I've worked before
+***
 <a href="https://apps.apple.com/tr/app/dijital-operatör/id335162906?l=tr"><img src="/clients/turkcell/dijital-operator-logo.png" width="70"></a>
 <a href="https://apps.apple.com/tr/app/turkcell-platinum/id671494224?l=tr"><img src="/clients/turkcell/platinum.jpg" width="50"></a>
 <a href="https://apps.apple.com/tr/app/şirketim/id930808346"><img src="/clients/turkcell/sirketim-app.png" width="70"></a>
